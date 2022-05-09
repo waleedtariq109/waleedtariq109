@@ -18,7 +18,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working ot Code Creatives
+- 🔭 I’m currently working at Code Creatives
 
 - 🌱 I’m currently learning Vue and Typescript
 
