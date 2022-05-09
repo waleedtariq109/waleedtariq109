@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedtariq109&label=Profile%20views&color=0e75b6&style=flat" alt="waleedtariq109" /> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue** and **Typescript**
 
 - 💬 Ask me about **html, css, js, vue**
 
