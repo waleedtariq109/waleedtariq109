@@ -9,7 +9,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=WaleedTariq109.WaleedTariq109)
 [![Github](https://img.shields.io/github/followers/WaleedTariq109?label=Follow&style=social)](https://github.com/WaleedTariq109)
 
-### Hi! My name is Waleed Tariq. I'm a passionate frontend developer from beautiful Pakistan :smile:
+### Hi! My name is Waleed Tariq. I'm a passionated frontend developer from beautiful Pakistan :smile:
 
 <br>
 <br>
