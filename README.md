@@ -29,7 +29,7 @@
 
 <h2> Skills and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,vite,js,ts,html,css,tailwind,bootstrap,webpack,regex,jest,figma,&perline=8)](https://github.com/WaleedTariq109)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,vite,js,ts,html,css,sass,tailwind,bootstrap,webpack,regex,jest,figma,git,firebase,vscode,pug&perline=8)](https://github.com/WaleedTariq109)
 
 <br>
 <br>
