@@ -16,7 +16,7 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="https://app.daily.dev/WaleedTariq109"><img src="https://github.com/WaleedTariq109/WaleedTariq109/blob/main/devcard.svg" width="400" alt="Waleed Dev Card"/></a>
 
 - 🔭 I’m currently working at Code Creatives
 
