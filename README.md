@@ -16,7 +16,7 @@
 
 <h2> About Me</h2>
 
-<a href="https://app.daily.dev/WaleedTariq109"><img src="https://github.com/WaleedTariq109/WaleedTariq109/blob/main/devcard.svg" width="400" alt="Waleed Dev Card"/></a>
+<a href="https://app.daily.dev/WaleedTariq109"><img src="https://github.com/WaleedTariq109/WaleedTariq109/blob/main/devcard.svg" align="right" width="300" alt="Waleed Dev Card"/></a>
 
 - 🔭 I’m currently working at Code Creatives
 
