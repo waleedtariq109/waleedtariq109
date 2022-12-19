@@ -7,7 +7,7 @@
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=WaleedTariq109.WaleedTariq109)
-[![Github](https://img.shields.io/github/followers/hadAbyte?label=Follow&style=social)](https://github.com/hadAbyte)
+[![Github](https://img.shields.io/github/followers/waleedtariq109?label=Follow&style=social)](https://github.com/waleedtariq109)
 
 ### Hi! My name is Waleed Tariq. I'm a passionated frontend developer from beautiful Pakistan :smile:
 
@@ -44,10 +44,10 @@
 <h2>Some Stats and Contributations</h2>
 <br>
 
-![Waleed 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=hadAbyte&theme=redical&hide_border=true&area=true)
-| ![Waleed github stats](https://github-readme-stats.vercel.app/api?username=hadAbyte&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadAbyte&theme=radical) |
+![Waleed 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=waleedtariq109&theme=redical&hide_border=true&area=true)
+| ![Waleed github stats](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedtariq109&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadAbyte&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hadAbyte&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq109&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "32"></h2>
 
