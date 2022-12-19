@@ -44,7 +44,6 @@
 <h2>Some Stats and Contributations</h2>
 <br>
 
-![Waleed 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=waleedtariq109&theme=redical&hide_border=true&area=true)
 | ![Waleed github stats](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedtariq109&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq109&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
