@@ -20,9 +20,9 @@
 
 - 🔭 I’m currently working at Code Creatives
 
-- 🌱 I’m currently learning Vue and Typescript
+- 🌱 I’m currently learning React
 
-- 💬 Ask me about **JAVASCRIPT**, **VUE**, **HTML**, **CSS**
+- 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **HTML**, **CSS**
 
 <br>
 <br>
