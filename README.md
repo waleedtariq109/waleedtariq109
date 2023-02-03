@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently on Carrer Break
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning CS50-101 by Harvard
 
 - 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **HTML**, **CSS**
 
