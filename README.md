@@ -18,9 +18,7 @@
 
 <a href="https://app.daily.dev/WaleedTariq109"><img src="https://github.com/WaleedTariq109/WaleedTariq109/blob/main/devcard.svg" align="right" width="300" alt="Waleed Dev Card"/></a>
 
-- 🔭 I’m currently on Carrer Break
-
-- 🌱 I’m currently learning CS50-101 by Harvard
+- 🔭 I’m currently Working at Manafa Technologies
 
 - 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **HTML**, **CSS**
 
