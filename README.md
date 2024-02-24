@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently Working at Manafa Technologies
 
-- 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **HTML**, **CSS**
+- 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **NUXT**, **NODE**
 
 <br>
 <br>
