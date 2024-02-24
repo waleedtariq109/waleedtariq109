@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-### Hi! My name is Waleed Tariq. I'm a passionated frontend developer from beautiful Pakistan :smile:
+### Hi! My name is Waleed Tariq. I'm a passionated Software engineer from beautiful Pakistan :smile:
 
 <br>
 <br>
