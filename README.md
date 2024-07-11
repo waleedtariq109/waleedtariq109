@@ -15,7 +15,7 @@
 
 <a href="https://app.daily.dev/WaleedTariq109"><img src="https://api.daily.dev/devcards/6f5af80d318a4ec9b6880aaaaffca80c.png?r=6eu" align="right" width="300" alt="Waleed Dev Card"/></a>
 
-- 🔭 I’m currently Working at Manafa Technologies
+- 🔭 I’m currently Working at Sukuk Capital
 
 - 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **NUXT**, **NODE**
 
