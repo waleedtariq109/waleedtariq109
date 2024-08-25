@@ -1,4 +1,3 @@
-
 <div align="center">
 <img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
 </div>
@@ -7,7 +6,7 @@
 <p align='center'>
 </p>
 
-### Hi! My name is Waleed Tariq. I'm a passionate Software Engineer from beautiful Pakistan :smile:
+### Hi! My name is Waleed Tariq. I'm a passionated Software engineer from beautiful Pakistan :smile:
 
 <br>
 <br>
@@ -24,9 +23,9 @@
 <br>
 <br>
 
-<h2> Skills and Tools </h2>
+<h2> Skills and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,redux,vite,js,ts,html,css,sass,tailwind,bootstrap,webpack,regex,jest,figma,git,firebase,vscode,pug,cpp,cmake&perline=8)](https://github.com/waleedtariq109)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,redux,vite,js,ts,html,css,sass,tailwind,bootstrap,webpack,regex,jest,figma,git,firebase,vscode,pug&perline=8)](https://github.com/waleedtariq109)
 
 <br>
 <br>
@@ -38,13 +37,13 @@
 <br>
 <br>
 
-<h2> Some Stats and Contributions </h2>
+<h2>Some Stats and Contributations</h2>
 <br>
 
-| ![Waleed GitHub Stats](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedtariq109&theme=radical) |
+| ![Waleed github stats](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedtariq109&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq109&langs_count=8&theme=radical&layout=compact) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq109&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-<h2> Some Programming Humor for You <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "32"></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "32"></h2>
 
 ## ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
