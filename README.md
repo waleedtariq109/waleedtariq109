@@ -25,7 +25,7 @@
 
 <h2> Skills and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,redux,vite,js,ts,html,css,sass,tailwind,bootstrap,webpack,regex,jest,figma,git,firebase,vscode,pug&perline=8)](https://github.com/waleedtariq109)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,vue,nuxtjs,react,redux,vite,vitest,js,ts,html,css,sass,tailwind,bootstrap,webpack,regex,jest,figma,git,firebase,vscode,visualstudio,pug&perline=8)](https://github.com/waleedtariq109)
 
 <br>
 <br>
