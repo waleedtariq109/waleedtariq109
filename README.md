@@ -42,7 +42,7 @@
 
 | ![Waleed github stats](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedtariq109&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq109&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Waleed Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq109&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=waleedtariq109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <h2> Need a break? How about a quick programming laugh? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "32"></h2>
 
