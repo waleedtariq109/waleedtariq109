@@ -1,12 +1,6 @@
 <div align="center">
-<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+<img width="" height = "" src="https://miro.medium.com/v2/resize:fit:750/1*C7VQlCvwt4ln21HKSlrKig.jpeg" alt="cover" />
 </div>
-
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> </h1>
-<p align='center'>
-</p>
-
-### Hi! My name is Waleed Tariq. I'm a passionated Software engineer from beautiful Pakistan :smile:
 
 <br>
 <br>
