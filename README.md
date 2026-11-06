@@ -15,16 +15,15 @@
 - 🚀 Love solving Data Structures & Algorithms problems.
 
 <br>
-<br>
-
-[![waleedtariq109's Nuxter profile](https://nuxt.com/nuxters/waleedtariq109/card.png)](https://nuxt.com/nuxters/waleedtariq109)
-
-<br>
-<br>
 
 <h2> Skills and Tools 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,vue,nuxtjs,react,redux,vite,vitest,js,ts,html,css,sass,tailwind,bootstrap,webpack,regex,jest,figma,git,firebase,vscode,visualstudio&perline=8)](https://github.com/waleedtariq109)
+
+<br>
+<br>
+
+[![waleedtariq109's Nuxter profile](https://nuxt.com/nuxters/waleedtariq109/card.png)](https://nuxt.com/nuxters/waleedtariq109)
 
 <br>
 <br>
