@@ -7,12 +7,17 @@
 
 <h2> About Me</h2>
 
-<a href="https://app.daily.dev/WaleedTariq109"><img src="https://api.daily.dev/devcards/v2/sA38dEgzC.png?type=default&r=faa" align="right" width="300" alt="Waleed Dev Card"/></a>
+<a href="https://app.daily.dev/WaleedTariq109"><img src="https://api.daily.dev/devcards/v2/sA38dEgzC.png?type=default&r=faa" align="right" width="300" alt="Waleed Dev Card"/></a><br>
 
 - 🔭 I’m currently learning about System Programming, including Operating Systems and Kernels.
 - 💬 Interested in low-level programming, memory management, and computer architecture.
 - 🌟 I love solving problems with C, my all-time favorite language.
 - 🚀 Love solving Data Structures & Algorithms problems.
+
+<br>
+<br>
+
+[![waleedtariq109's Nuxter profile](https://nuxt.com/nuxters/waleedtariq109/card.png)](https://nuxt.com/nuxters/waleedtariq109)
 
 <br>
 <br>
